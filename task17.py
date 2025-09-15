@@ -1,3 +1,3 @@
-savol = input("nmadr deb yozing: ")
+a = "b"
 
-print("Ustoz, bu dasturni savoliga tushunmadim 😅")
+print(a)

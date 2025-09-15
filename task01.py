@@ -1,2 +1,2 @@
-mevalar = ["olma", "banan", "shaftoli"]
+mevalar = ['olma', 'banan', 'shaftoli']
 print(mevalar)
